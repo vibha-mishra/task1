@@ -1,0 +1,330 @@
+body{
+    background-color:#f2f2f2;
+    margin:0px;
+}
+.header{
+    background-color:#283e4a;
+    margin:0px;
+}
+.LinkedIn > .fa {
+    width:25px;
+    height:25px;
+    text-align:center;
+    margin:10px 5px 10px 100px;
+    text-decoration:none;
+    font-size:23px;
+    padding:0px 2px;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.searchBar i{
+    margin-right:0px;
+    border:none;
+    text-align:center;
+    padding:5px 0px 5px 2px;
+}
+}   
+.searchBar{
+    max-width:30px;
+    margin-left:0px;
+    padding:2px 0px 2px 2px;
+}
+.fa-search{
+    background:#f2f2f2;
+    border:none;
+    color:gray;
+    min-width:30px;
+    text-align:center;
+    border:none;
+    font-size:15px;
+    padding:2px 0px 2px 2px;
+}
+input{
+    background-color:#f2f2f2;
+    border:none;
+    font-size:15px;
+    height: 23px;
+    margin-left: -4px;
+}
+
+.premium{
+    color:#dccea4;
+    float:right;
+    margin-right: 130px;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-top: 7px;
+    text-align: center;
+}
+.fa-th{
+    float:right;
+    margin-right:20px;
+    color: #cccccc;
+    text-align:center;
+    margin-top: 6px;
+    font-size: 20px;
+}
+#work{
+    font-size: 13px;
+    font-family: sans-serif;
+}
+#work-icon{
+    float:right;
+    margin-right:20px;
+    color: #cccccc;
+    margin-top:5px;
+    font-size: 1.333333em;
+    line-height: .7em;
+    text-align: center;
+}
+#myProfile{
+    border-radius:50%;
+    float:right;
+    width: 33px;
+    height: 36px;
+    margin-right: 29px;
+    margin-top: 4px;
+}
+
+#notification{
+   width: 55px;
+   height: 36px;
+   float:right;
+   margin-right:40px;
+}
+#message{
+   width:55px;
+   height: 36px;
+   float:right;
+   margin-right:40px;
+}
+#bag{
+   width: 55px;
+   height: 36px;
+   float:right;
+   margin-right:40px;
+}
+#people{
+   width:55px;
+   height: 36px;
+   float:right;
+   margin-right:40px;
+}
+#home{
+   width: 55px;
+   height: 36px;
+   float:right;
+   margin-right:40px;
+}
+
+#one{
+    background-color:white;
+    margin-left:150px;
+    float:left;
+    margin-right:10px;
+    height:500px;
+    width:200px;
+    margin-top:2px;
+}
+#two{
+    /* background-color:white; */
+    margin-left:10px;
+    float:left;
+    margin-right:10px;
+    height:600px;
+    width:500px;
+    margin-top:1px;
+   
+}
+#two_1{
+    height:445px;
+    margin-bottom:5px;
+    background-color:white;
+     border:.1px solid #bbb;
+    padding:2px;
+}
+#two_1 > #others-commented{
+    font-family:sans-serif;
+    font-size:11px;
+    margin-left:10px;
+}
+
+#two_1 > .fa-ellipsis-h{
+    color:gray;
+    float:right;
+    padding-right:8px;
+    padding-top:2px;
+    vertical-align:middle;
+    font-size:1em;
+}
+hr.solid #first-part{
+  border-top: 1px solid #e6e9ec;
+  width:498px;
+}
+#two_1 > #linkedin-profile > .fa{
+    width:35px;
+    height:35px;
+    margin-left:10px;
+}
+#two_1 > #linkedin-profile > .fa-linkedin{
+    text-align:center;
+    text-decoration:none;
+    font-size:30px;
+    background-color:#0066cc;
+    border-radius:5%;
+}
+#two_1 > #linkedin-profile > #linkedin-name{
+    font-size:11px;
+    float:right;
+    font-family:'Arial';
+    vertical-align:top;
+    margin-right:360px;
+}
+#two_1 > #linkedin-profile > #linkedin-name > #followers{
+    font-size:9px;
+    font-family:'Arial';
+}
+#linkedin-profile > #follow{
+    color:#007bb5;
+    font-size:13px;
+    font-family:'Arial';
+    float:right;
+    margin-right:-435px;
+}
+#linkedin-profile > #follow > big{
+    font-weight:300;
+    font-size:18px;
+    line-height: .7em;
+}
+#linkedin-profile > #text {
+    font-family:'Arial';
+    font-size:13px;
+    color:black;
+    font-weight:regular;
+    margin-left:10px;
+}
+#linkedin-profile > #text > a{
+    color:gray;
+    text-decoration:none;
+}
+#picture > .promo{
+    width:498px;
+    height:250px;
+    margin-top:-6px;
+    margin-left:-2px;
+    
+}
+.react-icons{
+    margin:4px 2px -5px 10px;
+}
+
+
+.react-icons > .NumOfLikesComments{
+    font-size:12px;
+    color:rgba(0,0,0,0.6);
+    text-decoration:none;
+    margin-left:3px;
+    vertical-align:top;
+    font-family:sans-serif;
+}
+.react-icons > .NumOfLikesComments > .fa-sqaure{
+    vertical-align:middle;
+    color:rgba(0,0,0,0.6);
+    font-size:.7em;
+}
+.react-icons > .NumOfLikesComments > .fa-xs{
+   font-size:.23em;
+   vertical-align:middle;
+}
+hr .solid #second-part{
+  border-top: 1px solid #f2f4f5;
+  
+}
+.buttons{
+    margin-left:6px;
+    padding-top:0px;
+
+}
+.buttons > #like-button{
+    vertical-align: top;
+    width: 57px;
+    height: 42px;
+    margin-top: -7px;
+    margin-right:3px;
+}
+.buttons > #comment-button{
+    vertical-align: top;
+    width: 78px;
+    height: 42px;
+    margin-top: -7px;
+    margin-right:3px;
+}
+.buttons > #share-button{
+    vertical-align: top;
+    width: 70px;
+    height: 42px;
+    margin-top: -7px;
+    margin-right:3px;
+}
+.buttons > #send-button{
+    vertical-align: top;
+    width: 56px;
+    height: 42px;
+    margin-top: -7px;
+    margin-left:-8px;
+    margin-right:3px;
+}
+
+
+#two_2{
+    height:150px;
+   
+    background-color:white;
+    border:.1px solid #bbb;
+    
+}
+#two_2 > .VibhaProfile{
+    width:100%;
+
+}
+#two_2 > .VibhaProfile > #activeProfile{
+   
+    width: 40px;
+    height: 40px;
+    margin-left: 12px;
+    margin-top: 12px;
+    position:relative;
+}
+#two_2 > .VibhaProfile > #tezi-khan{
+     font-size:11px;
+    float:right;
+    font-family:'Arial';
+    vertical-align:top;
+    margin-right:360px;
+    margin-top:14px;
+}
+#two_2 > .VibhaProfile > #tezi-khan > #SE{
+     font-size:9px;
+    font-family:'Arial';
+     color:rgba(0,0,0,0.6);
+}
+.VibhaProfile > #text2 {
+    font-family:'Arial';
+    font-size:13px;
+    color:black;
+    font-weight:regular;
+    margin-left:10px;
+}
+
+
+#three{
+    background-color:white;
+    margin-left:10px;
+    float:left;
+    margin-right:5px;
+    height:609px;
+    width:450px;
+    margin-top:3px;
+}
